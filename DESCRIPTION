@@ -6,7 +6,8 @@ Date: 2023-02-10
 Authors@R: c(
     person("Friedrich", "Pahlke", , "friedrich.pahlke@rpact.com", role = c("aut", "cre")),
     person("Daniel", "Sabanes Bove", , "daniel.sabanes_bove@roche.com", role = "aut"),
-    person("Kevin", "Kunzmann", , "kevin.kunzmann@boehringer-ingelheim.com", role = "aut")
+    person("Kevin", "Kunzmann", , "kevin.kunzmann@boehringer-ingelheim.com", role = "aut"),
+    person("Shuang", "Li", , "shuang.li.sl3@roche.com", role = "aut")
   )
 Description: An example package for learning about software development 
     best-practices for R packages.
