@@ -1,4 +1,4 @@
-Package: simulatr
+Package: simulatr_t
 Type: Package
 Title: Generator for Reproducible Fake Data 
 Version: 0.1.0.9001
